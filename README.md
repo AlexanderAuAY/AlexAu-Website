@@ -15,8 +15,9 @@
         <li><a href="#ten">Coding Challenge - Fire</a></li>
         <h2 id="one">Fish Tank</h2>
         <h6>Made in Khan Academy within the guidance of their modules</h6>
-        
-```var centerX = 200;\
+      
+```      
+var centerX = 200;
 var centerY = 100;
 var bodyLength = 118;
 var bodyHeight = 74;
