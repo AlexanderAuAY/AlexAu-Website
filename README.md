@@ -2,27 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>Projects Demonstration</title>
-    </head>
-    <body>
-        <style>
-        h2 {
-            font-family: cursive;
-            color: rgb(66, 29, 235);
-        }  
-        body {
-            font-family: sans-serif;
-            color: rgb(211, 122, 255);
-        }
-         h6 {
-            font-family: georgia;
-            color: rgb(227, 145, 219);
-            font-size: 12px;
-        }  
-        </style>
-        <h1>Alex's blog</h1>
 
         <h3>Contents</h3>
         <ul>
