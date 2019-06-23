@@ -14,9 +14,7 @@
         <li> <a href="#nine">Grade 11 - Summative</a></li>
         <li><a href="#ten">Coding Challenge - Fire</a></li>
         <h2 id="one">Fish Tank</h2>
-        <h6>Made in Khan Academy within the guidance of their modules</h6>
-                
-                
+        <h6>Made in Khan Academy within the guidance of their modules</h6>       
         <h2 id="two">Second Post</h2>
         <h6>September 12th, 2011</h6>
         
