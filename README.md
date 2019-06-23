@@ -10,9 +10,7 @@
         <h2 id="one">Fish Tank</h2>
         <h6>Made in Khan Academy within the guidance of their modules</h6>
         
-        <p>
-        ```
-var centerX = 200;
+```var centerX = 200;
 var centerY = 100;
 var bodyLength = 118;
 var bodyHeight = 74;
@@ -39,7 +37,6 @@ ellipse(centerX+bodyLength/4, centerY, bodyHeight/5, bodyHeight/5);
 drawFish (316,298,84,156);
 drawFish (209,186,15,200);
 drawFish (133,85,126,99);
-</p>
 ```
         
          
