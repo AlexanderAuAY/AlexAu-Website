@@ -5,8 +5,6 @@
         <ul>
            <li> <a href="#one">Khan Academy - Fish Tank</a></li>
         <li><a href="#two">Second Post</a></li>
-        </ul>
-        
         <h2 id="one">Fish Tank</h2>
         <h6>Made in Khan Academy within the guidance of their modules</h6>
         
