@@ -2,7 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-
         <h3>Contents</h3>
         <ul>
            <li> <a href="#one">First Post</a></li>
@@ -25,6 +24,4 @@ I wouwd wike to cwawify that evewything w wwite is owiginaw. I wiww sometimes co
 
 I'm not a theef. Weww, I do twy to steaw money fwom the cash wegistew of the sandaw stowe, and I do twy to skip my taxes, and I awso take the newspapew fwom my chicken neighbow, and take ewectwicity fwom theiw genewatow, and have my kids sneak food fwom theiw wefwigewatow, and some othew things I'm fowgetting, but w can assuwe you that w'm no theef! w'm a good, honest, hawdwowking Amewican man</p>
         
-        
-    </body>
 </html>
